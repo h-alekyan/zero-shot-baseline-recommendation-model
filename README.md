@@ -27,7 +27,7 @@ We have run experiments on the model. Here are the details:
 - The Tokenization is accounted for by the model pipeline.
 - An upcoming preprocessing feature will be LaTeX recognition (to make sure LaTeX formulas are not cleared from the text but are stored separately) which will be used to estimate the mathematical complexity of the paper.
 
-# You can the cleared version of the dataset here: https://drive.google.com/file/d/1QVw0UZXKgKTWAp0ZssM2k1oDiQ2NG6K_/view?usp=sharing
+**You can the cleared version of the dataset here: https://drive.google.com/file/d/1QVw0UZXKgKTWAp0ZssM2k1oDiQ2NG6K_/view?usp=sharing**
 
 Here is a simple example of an abstract, its original category and the recommended categories:
 
