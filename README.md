@@ -35,7 +35,7 @@ Here is a simple example of an abstract, its original category and the recommend
 
 A screenshot of the abstract from ArXiv
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91f374e0-8db9-4d4d-bb8f-f21c618d3145/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91f374e0-8db9-4d4d-bb8f-f21c618d3145/Untitled.png)
+![https://i.ibb.co/MPXsSv8/Untitled-6.png](https://i.ibb.co/MPXsSv8/Untitled-6.png)
 
 A snippet showing the true category of the paper and 3 categories recommended by the algorithm.
 
