@@ -31,7 +31,7 @@ We have run experiments on the model. Here are the details:
 
 Here is a simple example of an abstract, its original category and the recommended categories:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7492f821-08b1-44d6-aa40-0fbca1334e01/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7492f821-08b1-44d6-aa40-0fbca1334e01/Untitled.png)
+![https://i.ibb.co/LRt1PN2/Untitled-5.png](https://i.ibb.co/LRt1PN2/Untitled-5.png)
 
 A screenshot of the abstract from ArXiv
 
